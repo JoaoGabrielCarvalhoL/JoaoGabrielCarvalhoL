@@ -4,7 +4,7 @@ Desenvolvedor Backend Java com experiência em desenvolvimento de sistemas utili
 
 Atuo com as principais especificações do ecossistema Jakarta EE, incluindo JPA, JAX-RS, Servlets e Bean Validation, além de sólida experiência com o Spring Framework (Spring Web, Data, Security, Validation e Hateoas).
 
-Possuo experiência no desenvolvimento e manutenção de sistemas, implementação de APIs RESTful, escrita de testes automatizados (JUnit, Mockito), conteinerização com Docker e integração com serviços AWS (S3).
+Possuo experiência no desenvolvimento e manutenção de sistemas, implementação de APIs RESTful, escrita de testes automatizados (JUnit, Mockito), conteinerização com Docker e integração com serviços AWS.
 
 Também tenho atuação com documentação técnica (requisitos, casos de uso, histórias de usuário) e trabalho com projetos baseados em arquitetura de microsserviços.
 
